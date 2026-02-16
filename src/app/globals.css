@@ -5,6 +5,9 @@
 :root {
   --background: #fffbf5;
   --foreground: #1a1a1a;
+  --brand-primary: #fb923c;
+  --brand-accent: #f59e0b;
+  --brand-success: #10b981;
 }
 
 body {
